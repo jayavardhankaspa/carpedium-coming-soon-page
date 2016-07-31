@@ -11,14 +11,10 @@ handlers:
 - url: /stylesheet
   static_dir: stylesheet
 
-- url: /post-service
-  static_dir: post-servie
-- url: /api
-  static_dir: api
 
 
-- url: /components
-  static_dir: components
+
+
 
 - url: /javascript
   static_dir: javascript
